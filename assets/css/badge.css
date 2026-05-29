@@ -1,0 +1,15 @@
+.badge {
+    font-size: inherit;
+    display: inline-block;
+    margin: 0 2.5rem;
+    padding: 0.4rem 2.4rem;
+    border-radius: 30rem;
+    color: inherit;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.badge--green {
+    background-color: var(--green);
+    color: var(--light);
+}
